@@ -1,6 +1,6 @@
 <a href="https://www.buymeacoffee.com/prateekjoshi"><img height="34" src="https://raw.githubusercontent.com/prateekjoshi565/prateekjoshi565/main/icon/coffee-icon.png"></a>
 <a href="https://www.linkedin.com/in/prateek-joshi-iifmite/"><img height="28" src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png"></a>
-<a href="https://twitter.com/PratzJoshi"><img height="32" src="https://ipsf.net/wp-content/uploads/2018/10/twitter-transparent-app-2.png"></a>
+<a href="https://twitter.com/PratzJoshi"><img height="32" src="http://icons.iconarchive.com/icons/iynque/ios7-style/1024/Twitter-icon.png"></a>
 
 </p>
 
