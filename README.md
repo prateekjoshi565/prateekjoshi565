@@ -7,7 +7,9 @@
 
 ### Hi there 👋
 
-I create blog posts and solve problems related to data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs here and feel free to reach out to me to share your thoughts.  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/prateekjoshi), give me a shout out [@PratzJoshi](https://twitter.com/PratzJoshi) or follow me on [Linkedin](https://www.linkedin.com/in/prateek-joshi-iifmite/)!!
+I create blog posts and solve problems related to data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://medium.com/@prateekjoshi565) and feel free to reach out to me to share your thoughts.  
+
+If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/prateekjoshi), give me a shout out [@PratzJoshi](https://twitter.com/PratzJoshi) or follow me on [Linkedin](https://www.linkedin.com/in/prateek-joshi-iifmite/)!!
 
 <!--
 **prateekjoshi565/prateekjoshi565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
