@@ -1,3 +1,11 @@
+<a href="https://www.linkedin.com/in/prateek-joshi-iifmite/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png"></a>
+<a href="https://twitter.com/PratzJoshi"><img height="30" src="https://ipsf.net/wp-content/uploads/2018/10/twitter-transparent-app-2.png"></a>&nbsp;&nbsp;
+<a href="prateekjoshi565@gmail.com"><img height="30" src="https://raw.githubusercontent.com/prateekjoshi565/prateekjoshi565/main/icon/1490129331-rounded07_82197.png"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/prateekjoshi"><img height="30" src="https://raw.githubusercontent.com/prateekjoshi565/prateekjoshi565/main/icon/coffee-icon.png"></a>
+
+</p>
+
+
 ### Hi there 👋
 
 <!--
