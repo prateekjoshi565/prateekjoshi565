@@ -8,11 +8,11 @@
 I am a data scientist. I solve real-world problems using data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://medium.com/@prateekjoshi) and feel free to reach out to me to share your thoughts.
 
 My skills 📊📈 
-👉 Python
-👉 R Programming
-👉 Machine Learning
-👉 Natural Language Processing (NLP)
-👉 Time Series Forecasting
+* Python
+* R Programming
+* Machine Learning
+* Natural Language Processing (NLP)
+* Time Series Forecasting
 👉 Streamlit
 👉 n8n
 👉 AirTable
