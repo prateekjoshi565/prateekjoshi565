@@ -13,9 +13,10 @@ My skills 📊📈
 * Machine Learning
 * Natural Language Processing (NLP)
 * Time Series Forecasting
-👉 Streamlit
-👉 n8n
-👉 AirTable
+* Looker Studio, formerly Google Data Studio
+* Streamlit
+* n8n
+* AirTable
 
 If you found value in something I have created, please feel free to follow me on [Linkedin](https://www.linkedin.com/in/prateek-joshi-iifmite/)!!
 
