@@ -5,7 +5,17 @@
 
 ### Hi there 👋
 
-I am a data scientist. I solve real-world problems using data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://medium.com/@prateekjoshi) and feel free to reach out to me to share your thoughts.  
+I am a data scientist. I solve real-world problems using data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://medium.com/@prateekjoshi) and feel free to reach out to me to share your thoughts.
+
+My skills 📊📈 
+👉 Python
+👉 R Programming
+👉 Machine Learning
+👉 Natural Language Processing (NLP)
+👉 Time Series Forecasting
+👉 Streamlit
+👉 n8n
+👉 AirTable
 
 If you found value in something I have created, please feel free to follow me on [Linkedin](https://www.linkedin.com/in/prateek-joshi-iifmite/)!!
 
