@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I create content and solve problems related to data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://medium.com/@prateekjoshi565) and feel free to reach out to me to share your thoughts.  
+I am a data scientist. I solve real-world problems using data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://medium.com/@prateekjoshi) and feel free to reach out to me to share your thoughts.  
 
 If you found value in something I have created, please feel free to follow me on [Linkedin](https://www.linkedin.com/in/prateek-joshi-iifmite/)!!
 
