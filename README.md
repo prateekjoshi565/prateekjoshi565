@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/prateek-joshi-iifmite/"><img height="28" src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png"></a>
+<a href="https://www.linkedin.com/in/prateek-data-science/"><img height="28" src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png"></a>
 
 </p>
 
@@ -18,7 +18,7 @@ My skills 📊📈
 * n8n
 * AirTable
 
-If you found value in something I have created, please feel free to follow me on [Linkedin](https://www.linkedin.com/in/prateek-joshi-iifmite/)!!
+If you found value in something I have created, please feel free to follow me on [Linkedin](https://www.linkedin.com/in/prateek-data-science/)!!
 
 <!--
 **prateekjoshi565/prateekjoshi565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
