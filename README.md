@@ -11,12 +11,12 @@ My skills 📊📈
 * Python
 * R Programming
 * Machine Learning
+* Generative AI
 * Natural Language Processing (NLP)
 * Time Series Forecasting
-* Looker Studio, formerly Google Data Studio
 * Streamlit
-* n8n
-* AirTable
+* Anvil
+* N8N
 
 If you found value in something I have created, please feel free to follow me on [Linkedin](https://www.linkedin.com/in/prateek-data-science/)!!
 
