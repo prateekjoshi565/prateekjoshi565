@@ -16,7 +16,6 @@ My skills 📊📈
 * Time Series Forecasting
 * Streamlit
 * Anvil
-* N8N
 
 If you found value in something I have created, please feel free to follow me on [Linkedin](https://www.linkedin.com/in/prateek-data-science/)!!
 
