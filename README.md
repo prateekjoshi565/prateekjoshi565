@@ -10,10 +10,9 @@ I am a data scientist. I solve real-world problems using data science and AI.  I
 My skills 📊📈 
 * Python
 * R Programming
-* Machine Learning
+* Stable Diffusion
 * Generative AI
 * Natural Language Processing (NLP)
-* Time Series Forecasting
 * Streamlit
 * Anvil
 
