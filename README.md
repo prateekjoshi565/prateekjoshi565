@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I am a data scientist. I solve real-world problems using data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://medium.com/@prateekjoshi) and feel free to reach out to me to share your thoughts.
+I am a data scientist. I solve real-world problems using data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://pjoshi15.com/) and feel free to reach out to me to share your thoughts.
 
 My skills 📊📈 
 * Python
