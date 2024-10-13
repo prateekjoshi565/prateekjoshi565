@@ -5,18 +5,14 @@
 
 ### Hi there 👋
 
-I am a data scientist. I solve real-world problems using data science and AI.  I have a passion for learning and sharing my knowledge with others. You can read my blogs [here](https://pjoshi15.com/) and feel free to reach out to me to share your thoughts.
+I am a data scientist.  I have a passion for learning and sharing my knowledge. You can read my [blog](https://pjoshi15.com/) and watch my [videos](https://www.youtube.com/@pjoshi_15/videos).
 
 My skills 📊📈 
 * Python
 * R Programming
 * Stable Diffusion
 * Generative AI
-* Natural Language Processing (NLP)
-* Streamlit
-* Anvil
-
-If you found value in something I have created, please feel free to follow me on [Linkedin](https://www.linkedin.com/in/prateek-data-science/)!!
+* Graphics designing with Python
 
 <!--
 **prateekjoshi565/prateekjoshi565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
